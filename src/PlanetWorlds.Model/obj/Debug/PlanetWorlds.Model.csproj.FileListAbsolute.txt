@@ -1,0 +1,7 @@
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\PlanetWorlds.Model\bin\Debug\PlanetWorlds.Model.dll
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\PlanetWorlds.Model\bin\Debug\PlanetWorlds.Model.pdb
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\PlanetWorlds.Model\bin\Debug\Worlds.Model.dll
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\PlanetWorlds.Model\bin\Debug\Worlds.Model.pdb
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\PlanetWorlds.Model\obj\Debug\PlanetWorlds.Model.csprojResolveAssemblyReference.cache
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\PlanetWorlds.Model\obj\Debug\PlanetWorlds.Model.dll
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\PlanetWorlds.Model\obj\Debug\PlanetWorlds.Model.pdb

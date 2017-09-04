@@ -1,0 +1,13 @@
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\HelloWorlds.AccountService\bin\Debug\HelloWorlds.AccountService.dll
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\HelloWorlds.AccountService\bin\Debug\HelloWorlds.AccountService.pdb
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\HelloWorlds.AccountService\bin\Debug\Autofac.dll
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\HelloWorlds.AccountService\bin\Debug\HelloWorlds.Infrastructure.dll
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\HelloWorlds.AccountService\bin\Debug\Worlds.Model.dll
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\HelloWorlds.AccountService\bin\Debug\Newtonsoft.Json.dll
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\HelloWorlds.AccountService\bin\Debug\HelloWorlds.Infrastructure.pdb
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\HelloWorlds.AccountService\bin\Debug\Worlds.Model.pdb
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\HelloWorlds.AccountService\bin\Debug\Autofac.xml
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\HelloWorlds.AccountService\bin\Debug\Newtonsoft.Json.xml
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\HelloWorlds.AccountService\obj\Debug\HelloWorlds.AccountService.csprojResolveAssemblyReference.cache
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\HelloWorlds.AccountService\obj\Debug\HelloWorlds.AccountService.dll
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\HelloWorlds.AccountService\obj\Debug\HelloWorlds.AccountService.pdb

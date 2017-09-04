@@ -1,0 +1,89 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{1F4A01F6-518F-4552-88A1-CF89DCBD90BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Worlds.Model", "Worlds.Model\Worlds.Model.csproj", "{8ADC8457-DCDD-4E38-9213-7FFB1AD98A1B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Games", "Games", "{633A36B0-A4AA-4B05-B851-7E6C02AE17E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorlds.CosmicPassport", "HelloWorlds.CosmicPassport\HelloWorlds.CosmicPassport.csproj", "{8B8A84DF-42C0-4BE0-B746-58CA5C6D6D02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorlds.MyWorld", "HelloWorlds.MyWorld\HelloWorlds.MyWorld.csproj", "{871D0058-E15E-4903-84E2-7F87B22109A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalaxyWorlds.Model", "GalaxyWorlds.Model\GalaxyWorlds.Model.csproj", "{958B3757-28A5-48B8-A12F-1B9EFA92D230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetWorlds.Model", "PlanetWorlds.Model\PlanetWorlds.Model.csproj", "{612F86A5-A507-4C97-93E5-366886A55A6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndividualWorlds.Model", "IndividualWorlds.Model\IndividualWorlds.Model.csproj", "{65AA0DFB-6762-422F-AA2A-BBE8E555C68D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{A231F329-A421-46B9-8B87-412903FEA120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndividualWorlds.Service", "IndividualWorlds.Service\IndividualWorlds.Service.csproj", "{1249E69F-FAAD-47B8-9298-325BCEAD6DE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorlds.AccountService", "HelloWorlds.AccountService\HelloWorlds.AccountService.csproj", "{2C1A8277-10B3-4285-98AE-97C6D53B61E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Base", "Base", "{8336C5AC-482B-4AC8-978D-F21B4E247484}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorlds.Infrastructure", "HelloWorlds.Infrastructure\HelloWorlds.Infrastructure.csproj", "{B5A242A1-B77A-4BB7-9C01-F185A2FBA97D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ADC8457-DCDD-4E38-9213-7FFB1AD98A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ADC8457-DCDD-4E38-9213-7FFB1AD98A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ADC8457-DCDD-4E38-9213-7FFB1AD98A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ADC8457-DCDD-4E38-9213-7FFB1AD98A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B8A84DF-42C0-4BE0-B746-58CA5C6D6D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8A84DF-42C0-4BE0-B746-58CA5C6D6D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B8A84DF-42C0-4BE0-B746-58CA5C6D6D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B8A84DF-42C0-4BE0-B746-58CA5C6D6D02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{871D0058-E15E-4903-84E2-7F87B22109A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871D0058-E15E-4903-84E2-7F87B22109A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871D0058-E15E-4903-84E2-7F87B22109A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871D0058-E15E-4903-84E2-7F87B22109A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{958B3757-28A5-48B8-A12F-1B9EFA92D230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958B3757-28A5-48B8-A12F-1B9EFA92D230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958B3757-28A5-48B8-A12F-1B9EFA92D230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958B3757-28A5-48B8-A12F-1B9EFA92D230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{612F86A5-A507-4C97-93E5-366886A55A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612F86A5-A507-4C97-93E5-366886A55A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612F86A5-A507-4C97-93E5-366886A55A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612F86A5-A507-4C97-93E5-366886A55A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65AA0DFB-6762-422F-AA2A-BBE8E555C68D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65AA0DFB-6762-422F-AA2A-BBE8E555C68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65AA0DFB-6762-422F-AA2A-BBE8E555C68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65AA0DFB-6762-422F-AA2A-BBE8E555C68D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1249E69F-FAAD-47B8-9298-325BCEAD6DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1249E69F-FAAD-47B8-9298-325BCEAD6DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1249E69F-FAAD-47B8-9298-325BCEAD6DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1249E69F-FAAD-47B8-9298-325BCEAD6DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C1A8277-10B3-4285-98AE-97C6D53B61E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1A8277-10B3-4285-98AE-97C6D53B61E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C1A8277-10B3-4285-98AE-97C6D53B61E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C1A8277-10B3-4285-98AE-97C6D53B61E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5A242A1-B77A-4BB7-9C01-F185A2FBA97D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A242A1-B77A-4BB7-9C01-F185A2FBA97D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A242A1-B77A-4BB7-9C01-F185A2FBA97D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A242A1-B77A-4BB7-9C01-F185A2FBA97D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8ADC8457-DCDD-4E38-9213-7FFB1AD98A1B} = {1F4A01F6-518F-4552-88A1-CF89DCBD90BC}
+		{8B8A84DF-42C0-4BE0-B746-58CA5C6D6D02} = {633A36B0-A4AA-4B05-B851-7E6C02AE17E4}
+		{871D0058-E15E-4903-84E2-7F87B22109A4} = {633A36B0-A4AA-4B05-B851-7E6C02AE17E4}
+		{958B3757-28A5-48B8-A12F-1B9EFA92D230} = {1F4A01F6-518F-4552-88A1-CF89DCBD90BC}
+		{612F86A5-A507-4C97-93E5-366886A55A6F} = {1F4A01F6-518F-4552-88A1-CF89DCBD90BC}
+		{65AA0DFB-6762-422F-AA2A-BBE8E555C68D} = {1F4A01F6-518F-4552-88A1-CF89DCBD90BC}
+		{1249E69F-FAAD-47B8-9298-325BCEAD6DE9} = {A231F329-A421-46B9-8B87-412903FEA120}
+		{2C1A8277-10B3-4285-98AE-97C6D53B61E5} = {A231F329-A421-46B9-8B87-412903FEA120}
+		{B5A242A1-B77A-4BB7-9C01-F185A2FBA97D} = {8336C5AC-482B-4AC8-978D-F21B4E247484}
+	EndGlobalSection
+EndGlobal

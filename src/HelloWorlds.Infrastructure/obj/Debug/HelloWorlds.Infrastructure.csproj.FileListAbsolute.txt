@@ -1,0 +1,7 @@
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\HelloWorlds.Infrastructure\bin\Debug\HelloWorlds.Infrastructure.dll
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\HelloWorlds.Infrastructure\bin\Debug\HelloWorlds.Infrastructure.pdb
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\HelloWorlds.Infrastructure\bin\Debug\Newtonsoft.Json.dll
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\HelloWorlds.Infrastructure\bin\Debug\Newtonsoft.Json.xml
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\HelloWorlds.Infrastructure\obj\Debug\HelloWorlds.Infrastructure.csprojResolveAssemblyReference.cache
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\HelloWorlds.Infrastructure\obj\Debug\HelloWorlds.Infrastructure.dll
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\HelloWorlds.Infrastructure\obj\Debug\HelloWorlds.Infrastructure.pdb

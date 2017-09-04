@@ -1,0 +1,13 @@
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\IndividualWorlds.Service\bin\Debug\IndividualWorlds.Service.dll
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\IndividualWorlds.Service\bin\Debug\IndividualWorlds.Service.pdb
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\IndividualWorlds.Service\bin\Debug\Autofac.dll
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\IndividualWorlds.Service\bin\Debug\IndividualWorlds.Model.dll
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\IndividualWorlds.Service\bin\Debug\PlanetWorlds.Model.dll
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\IndividualWorlds.Service\bin\Debug\Worlds.Model.dll
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\IndividualWorlds.Service\bin\Debug\IndividualWorlds.Model.pdb
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\IndividualWorlds.Service\bin\Debug\PlanetWorlds.Model.pdb
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\IndividualWorlds.Service\bin\Debug\Worlds.Model.pdb
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\IndividualWorlds.Service\bin\Debug\Autofac.xml
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\IndividualWorlds.Service\obj\Debug\IndividualWorlds.Service.csprojResolveAssemblyReference.cache
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\IndividualWorlds.Service\obj\Debug\IndividualWorlds.Service.dll
+E:\王国党-个人文件夹\个人资料\我的项目\Wgd.HelloWorlds\src\IndividualWorlds.Service\obj\Debug\IndividualWorlds.Service.pdb
